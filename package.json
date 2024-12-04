@@ -8,9 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --repo git@github.com:charandass/image_gallery_deploy.git"
+    "preview": "vite preview"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
