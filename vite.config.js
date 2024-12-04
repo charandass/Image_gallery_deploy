@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Image_gallery_deploy/"
+  base: "/image_gallery_deploy/"
 })
